@@ -13,8 +13,8 @@ package com.greatap.webapi;
 //},
 //"id":"189674171081087"
 public class SpotJsonMessage {
-	private String name;
-	private String category;
-	private LocationJsonMessage location;
-	private String id;
+	public String name;
+	public String category;
+	public LocationJsonMessage location;
+	public String id;
 }

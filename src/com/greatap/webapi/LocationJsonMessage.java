@@ -7,10 +7,10 @@ package com.greatap.webapi;
 //"latitude":34.72010833,
 //"longitude":137.4468403
 public class LocationJsonMessage {
-	private String street;
-	private String city;
-	private String country;
-	private String zip;
-	private double latitude;
-	private double longitude;
+	public String street;
+	public String city;
+	public String country;
+	public String zip;
+	public double latitude;
+	public double longitude;
 }
